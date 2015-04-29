@@ -1,6 +1,5 @@
 
 public class House {
-	//House: id, ����� ��������, �������, ����, ���������� ������, �����, ��� ������, ���� ������������.
 	private String street;
 	private String buildingType;
 	private String flatNumber;

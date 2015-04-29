@@ -81,8 +81,10 @@ public class Main {
     	
     	getTimeLinkedListStart();
     	getTimeArrayListStart();
+    	
         getTimeArrayList();
         getTimeLinkedList();
+        
         getTimeArrayListEnd();
         getTimeLinkedListEnd();
     }
